@@ -1,0 +1,39 @@
+body{
+    background-size: cover;
+    text-align: center;
+}
+.heading{
+    font-size: 23px;
+    width: 100%;
+    bottom:0;
+}
+#start, #number_of_objects  {
+    font-size: 18px;
+}
+
+canvas{
+    border: 5px solid rgb(21, 149, 254);
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px rgb(222, 13, 13);
+}
+
+.copy_right_footer{
+  position: fixed;
+  color: rgb(17, 4, 255);
+  bottom: 0;
+  width: 100%;
+  background-color: aquamarine;
+  line-height: 2;
+  text-align: center;
+}
+
+
+
+
+video{
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+
+}
